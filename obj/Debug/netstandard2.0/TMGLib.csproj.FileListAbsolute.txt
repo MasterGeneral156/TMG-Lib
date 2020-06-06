@@ -1,0 +1,9 @@
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\bin\Debug\netstandard2.0\TMGLib.deps.json
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\bin\Debug\netstandard2.0\TMGLib.dll
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\bin\Debug\netstandard2.0\TMGLib.pdb
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.csprojAssemblyReference.cache
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.AssemblyInfoInputs.cache
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.AssemblyInfo.cs
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.csproj.CoreCompileInputs.cache
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.dll
+Z:\ryan\Documents\Visual Studio Projects\TMGLib\obj\Debug\netstandard2.0\TMGLib.pdb

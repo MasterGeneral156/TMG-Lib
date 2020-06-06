@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZynVVng4xGWoUXWFORUzy92m66ZN9J2XFh0eB+yoO7EI3lCOtRNqOdTeQ16UpgWpMpGwq/6XPZLE8iEeZLRz0A==",
+  "success": true,
+  "projectFilePath": "Z:\\ryan\\Documents\\Visual Studio Projects\\TMGLib\\TMGLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
