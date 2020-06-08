@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TMGLib
 {
-    class ConsoleUtils
+    public class ConsoleUtils
     {
         //Error text in console! Changes text to red.
         public static void consoleError(string appID, string error)
