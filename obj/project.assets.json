@@ -183,7 +183,7 @@
     "C:\\Users\\Ryan\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "0.0.1",
+    "version": "0.0.1.1",
     "restore": {
       "projectUniqueName": "Z:\\ryan\\Documents\\Visual Studio Projects\\TMGLib\\TMGLib.csproj",
       "projectName": "TMGLib",
