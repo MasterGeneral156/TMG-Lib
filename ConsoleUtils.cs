@@ -11,6 +11,7 @@ namespace TMGLib
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("[" + appID + "] " + error);
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         //Info text in console! Changes text to blue.
@@ -18,6 +19,7 @@ namespace TMGLib
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("[" + appID + "] " + info);
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         //Success text in console! Changes text to green.
@@ -25,6 +27,7 @@ namespace TMGLib
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("[" + appID + "] " + success);
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         //Warning text in console! Changes text to yellow.
@@ -32,6 +35,7 @@ namespace TMGLib
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("[" + appID + "] " + warning);
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         //Default text in console. Color is white.
@@ -39,6 +43,7 @@ namespace TMGLib
         {
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("[" + appID + "] " + output);
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }
